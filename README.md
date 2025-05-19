@@ -1,7 +1,7 @@
 # 🛠 Developer Onboarding Guide
 
 Welcome to the team! 🎉  
-We're excited to have you join us at **[Agency Name]**. This document outlines our coding and collaboration practices to help you get up to speed quickly.
+We're excited to have you join us at **Supasoft**. This document outlines our coding and collaboration practices to help you get up to speed quickly.
 
 ---
 
